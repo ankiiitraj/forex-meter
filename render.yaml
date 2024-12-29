@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: fastapi-forex-master
+    name: forex-meter
     runtime: python
     plan: free
     autoDeploy: false
